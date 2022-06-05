@@ -1,1 +1,1 @@
-# Labview-S-cakl-k-Okuma
+# Labview-Sicaklik-Okuma
